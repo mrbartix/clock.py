@@ -4,7 +4,7 @@
 # Change the alarm completion sound here
 # Ensure that the sound is in a mp3 or wav file format - otherwise it wont work
 soundPath: "./sound.wav"
-soundRequired: True # if you want to play a sound, after the timer change this to true
+soundRequired: False # if you want to play a sound, after the timer change this to true
 alarmDoneTxt: boombayah the alarms done # Change the text, which is printed out when the alarm is done
 
 # You can change the digits here, or how the menu looks
