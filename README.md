@@ -5,12 +5,12 @@ First started in lua, but then moved to python.
 
 ## Installation
 
-Windows, most linux distros, macOS:
+### Windows, most linux distros, macOS:
 ```bash
 pip install -r requirements.txt
 ```
 
-Arch linux: \
+### Arch linux:
 Download `python-yaml` from the extra repository using `pacman`.\
 Download `python-readchar` and `python-playsound3` from the AUR.
 
