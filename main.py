@@ -198,7 +198,7 @@ def main():
         elif options[currentIndex] == "face": ######## CREDITS ########
             print()
             print("   > Created by @mrbartix; MIT license")
-            print("   > Visit the config [clock.conf] if you want to edit anything [WORK IN PROGRESS]")
+            print("   > Visit the config [clock.conf] if you want to edit anything")
             print("   > 13.09.2025")
             wait(0.1)
 
